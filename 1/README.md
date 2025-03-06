@@ -17,3 +17,9 @@
 13. Сделать коммит с названием `git commit -m "Добавил log.txt"`
 ---
 14. Запушить ветку командой `git push`
+
+
+
+## Пример выполненого задания
+
+Репозиторий - [Introduction-1](https://github.com/TheHexReader/introduction-1)
