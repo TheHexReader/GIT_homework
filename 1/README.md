@@ -6,7 +6,7 @@
 4. Добавить файл при помощи `git add README.md`
 5. Сделать коммит с названием `git commit -m "Добавил README.md"`
 ---
-6. Создать файл `status.txt`.
+6. Создать файл `status.txt`
 7. В файл добавить вывод команды `git status`
 8. Добавить файл при помощи `git add status.txt`
 9. Сделать коммит с названием `git commit -m "Добавил status.txt"`
